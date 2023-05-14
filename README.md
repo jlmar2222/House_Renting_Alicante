@@ -61,14 +61,14 @@ In orther to start it you have to run the env/Scripts/activate programe.
 
 In orhter to get the clean csv file with the data you must run the program in the next order:
 
-- 1) Python/Spider.py
-- 2) Python/rid_of_urb.py
-- 3) SQL/DB_creation.sql
-- 4) SQL/prueba.sql
-- 5) SQL/Updates.sql7
-- 6) SQL/individual.sql
-- 7) SQL/create_csv.sql
-- 8) Python/last.py
+- Python/Spider.py
+- Python/rid_of_urb.py
+- SQL/DB_creation.sql
+- SQL/prueba.sql
+- SQL/Updates.sql7
+- SQL/individual.sql
+- SQL/create_csv.sql
+- Python/last.py
 
 
 ### WARNING
