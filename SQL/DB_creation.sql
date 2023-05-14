@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS House_Renting;
+
+CREATE DATABASE House_Renting;
