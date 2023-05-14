@@ -62,7 +62,7 @@ In orhter to get the clean csv file with the data you must run the program in th
 - Python/rid_of_urb.py
 - SQL/DB_creation.sql
 - SQL/prueba.sql
-- SQL/Updates.sql7
+- SQL/Updates.sql
 - SQL/individual.sql
 - SQL/create_csv.sql
 - Python/last.py
