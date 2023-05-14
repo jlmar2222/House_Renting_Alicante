@@ -54,9 +54,6 @@ So the external Python libraries that we'll be using are the following:
 - Pandas
 - Matplotlib
 
-We have added a virtual enviroment in the 'env' directory in case you need it.
-In orther to start it you have to run the env/Scripts/activate programe. 
-
 ### Steps to follow 
 
 In orhter to get the clean csv file with the data you must run the program in the next order:
