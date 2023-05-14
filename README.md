@@ -1,9 +1,39 @@
 # House Renting in Alicante
 
-The core of this project is to get a data set based on the real state portal 'idealista.com'.
+The core of this project is to get a dataset based on the real state portal 'idealista.com'.
 (This main data is in the 'Alicante_individual.csv' file)
 
 We also show some further research. 
+
+## Data Base
+
+Columns:
+
+id => Our auto increment Primary Key.
+
+idealista_id => the “idealista.com” house identifier. 
+
+m2_builded => total square meters of the house.
+
+m2_habitable => square meters of the house that are habitable.
+
+bedrooms => number of bedrooms.
+
+bathrooms => number of bathrooms.
+
+floor => the number of the floor in which the house is.
+
+price => the actual price.
+
+street => the street where it is.
+
+neighborhood => the neighborhood where it is.
+
+district => the district where it belongs.
+
+The rest of the variables are binaries; the two possible values are “Y” or “N”.
+That would manifest if the house does or does not have it.
+
 
 ## Do the research
 
