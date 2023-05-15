@@ -32,7 +32,7 @@ neighborhood => the neighborhood where it is.
 district => the district where it belongs.
 
 The rest of the variables are binaries; the two possible values are “Y” or “N”.
-That would manifest if the house does or does not have it.
+That would manifest if the house does or does not have it:
 
 terrace, balcony, garaje, built_in_wardrobe, air_conditioning, swimming_poll, green_zone, furnished, equiped_kitchen
 
