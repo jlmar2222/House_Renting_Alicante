@@ -673,23 +673,23 @@
 "99983228";"3";"2";"Planta 4ª exterior";"Y";"N";"Y";"N";"Y";"Y";"N";"N";"1499";"Y";"Y";NULL;"Barrio Centro Tradicional";"Distrito Centro";"75";" 70"
 "99988091";"0";"1";"Bajo exterior";"N";"Y";"Y";"N";"Y";"Y";"N";"N";"1300";"Y";"Y";"Calle de Juan de Herrera";"Barrio Mercado";"Distrito Centro";"86";NULL
 "99997637";"4";"2";"Bajo exterior";"Y";"Y";"N";"N";"Y";"N";"N";"N";"1500";"N";"Y";NULL;"Barrio Centro Tradicional";"Distrito Centro";"140";" 130"
-NULL;"4";"3";"Planta 7ª exterior";"Y";"Y";"Y";"Y";"Y";"Y";"N";"N";"1300";"Y";"Y";"Avenida Oscar Espla, 15";"Barrio Benalúa";"Distrito Benalúa-La Florida-Babel-San Gabriel";"210";" 185"
-NULL;"2";"2";"Planta 6ª exterior";"Y";"Y";"N";"Y";"Y";"Y";"Y";"Y";"2100";"Y";"Y";"Calle la Doblada, 7";"Barrio Cabo de las Huertas";"Distrito Playa de San Juan-El Cabo";"100";NULL
-NULL;"4";"2";"Planta 1ª exterior";"Y";"N";"Y";"Y";"Y";"N";"N";"N";"1085";"N";"Y";NULL;"Barrio Ensanche-Diputación";"Distrito Centro";"120";" 90"
-NULL;"4";"2";"Planta 1ª exterior";"Y";"N";"N";"Y";"Y";"N";"N";"N";"1085";"N";"Y";NULL;"Barrio Ensanche-Diputación";"Distrito Centro";"120";" 90"
-NULL;"4";"2";"Planta 1ª exterior";"Y";"Y";"Y";"Y";"Y";"N";"N";"N";"1085";"N";"Y";"Calle Churruca";"Barrio Ensanche-Diputación";"Distrito Centro";"120";" 90"
-NULL;"4";"2";"Planta 1ª exterior";"Y";"N";"Y";"Y";"Y";"Y";"N";"N";"1300";"Y";"Y";"Avenida General Marvá, 23";"Barrio Ensanche-Diputación";"Distrito Centro";"160";" 130"
-NULL;"2";"1";"Planta 3ª exterior";"Y";"N";"N";"Y";"Y";"Y";"N";"N";"1000";"N";"Y";"Avenida Alfonso El Sabio, 24";"Barrio Mercado";"Distrito Centro";"70";" 60"
-NULL;"1";"1";"Planta 3ª exterior";"Y";"N";"N";"Y";"Y";"Y";"N";"N";"1100";"N";"Y";"Avenida Alfonso El Sabio, 24";"Barrio Mercado";"Distrito Centro";"69";" 59"
-NULL;"4";"2";"Planta 2ª exterior";"Y";"Y";"N";"Y";"Y";"Y";"N";"N";"950";"Y";"Y";NULL;"Barrio Plà del Bon Repòs-La Goteta";"Distrito Plà del Bon Repòs-La Goteta-San Antón";"140";" 120"
-NULL;"4";"2";"Planta 3ª exterior";"Y";"N";"N";"Y";"Y";"Y";"N";"N";"1520";"N";"Y";"Calle Paris, 2";"Barrio Ensanche-Diputación";"Distrito Centro";"155";" 135"
-NULL;"4";"2";"Planta 1ª exterior";"Y";"N";"Y";"Y";"Y";"Y";"N";"N";"1630";"N";"Y";"Calle Alvarez Sereix";"Barrio Centro Tradicional";"Distrito Centro";"140";" 130"
-NULL;"4";"2";"Planta 1ª exterior";"Y";"Y";"Y";"Y";"Y";"N";"N";"N";"1630";"N";"Y";"Calle Alvarez Sereix";"Barrio Centro Tradicional";"Distrito Centro";"140";NULL
-NULL;"4";"2";"Planta 1ª exterior";"Y";"Y";"N";"Y";"Y";"Y";"N";"N";"1630";"N";"Y";NULL;"Barrio Centro Tradicional";"Distrito Centro";"140";NULL
-NULL;"4";"2";"Bajo exterior";"Y";"Y";"N";"Y";"Y";"N";"N";"N";"1630";"N";"Y";NULL;"Barrio Centro Tradicional";"Distrito Centro";"140";" 130"
-NULL;"3";"2";"Bajo exterior";"Y";"N";"N";"Y";"N";"Y";"N";"N";"750";"N";"Y";"Calle Angelina Bendito";"Barrio Babel";"Distrito Benalúa-La Florida-Babel-San Gabriel";"150";NULL
-NULL;"1";"1";"Planta 12ª exterior";"Y";"Y";"N";"Y";"Y";"Y";"N";"N";"750";"Y";"Y";"Avenida de Villajoyosa, 10";"Barrio La Albufereta";"Distrito Playa de San Juan-El Cabo";"46";" 38"
-NULL;"2";"2";"Planta 1ª exterior";"Y";"Y";"Y";"Y";"Y";"Y";"Y";"Y";"1560";"Y";"Y";"Calle Alcalde José Luís Lassaletta";"Barrio Babel";"Distrito Benalúa-La Florida-Babel-San Gabriel";"138";" 125"
-NULL;"4";"2";"Planta 4ª exterior";"Y";"N";"N";"Y";"N";"N";"N";"N";"1050";"Y";"Y";NULL;"Barrio Colonia Requena-Virgen del Carmen";"Distrito Virgen del Remedio-Juan XXIII";"137";" 135"
-NULL;"2";"2";"Planta 1ª exterior";"Y";"Y";"N";"Y";"Y";"N";"Y";"N";"1460";"Y";"Y";"Calle Alcalde José Luís Lassaletta, 6";"Barrio Babel";"Distrito Benalúa-La Florida-Babel-San Gabriel";"138";" 118"
-NULL;"3";"2";"Planta 3ª exterior";"Y";"N";"N";"Y";"Y";"Y";"N";"N";"1152";"N";"Y";NULL;"Barrio Ensanche-Diputación";"Distrito Centro";"117";" 99"
+"100069818";"4";"3";"Planta 7ª exterior";"Y";"Y";"Y";"Y";"Y";"Y";"N";"N";"1300";"Y";"Y";"Avenida Oscar Espla, 15";"Barrio Benalúa";"Distrito Benalúa-La Florida-Babel-San Gabriel";"210";" 185"
+"100508747";"2";"2";"Planta 6ª exterior";"Y";"Y";"N";"Y";"Y";"Y";"Y";"Y";"2100";"Y";"Y";"Calle la Doblada, 7";"Barrio Cabo de las Huertas";"Distrito Playa de San Juan-El Cabo";"100";NULL
+"100975758";"4";"2";"Planta 1ª exterior";"Y";"N";"Y";"Y";"Y";"N";"N";"N";"1085";"N";"Y";NULL;"Barrio Ensanche-Diputación";"Distrito Centro";"120";" 90"
+"100982186";"4";"2";"Planta 1ª exterior";"Y";"N";"N";"Y";"Y";"N";"N";"N";"1085";"N";"Y";NULL;"Barrio Ensanche-Diputación";"Distrito Centro";"120";" 90"
+"100995381";"4";"2";"Planta 1ª exterior";"Y";"Y";"Y";"Y";"Y";"N";"N";"N";"1085";"N";"Y";"Calle Churruca";"Barrio Ensanche-Diputación";"Distrito Centro";"120";" 90"
+"101068249";"4";"2";"Planta 1ª exterior";"Y";"N";"Y";"Y";"Y";"Y";"N";"N";"1300";"Y";"Y";"Avenida General Marvá, 23";"Barrio Ensanche-Diputación";"Distrito Centro";"160";" 130"
+"101110315";"2";"1";"Planta 3ª exterior";"Y";"N";"N";"Y";"Y";"Y";"N";"N";"1000";"N";"Y";"Avenida Alfonso El Sabio, 24";"Barrio Mercado";"Distrito Centro";"70";" 60"
+"101110341";"1";"1";"Planta 3ª exterior";"Y";"N";"N";"Y";"Y";"Y";"N";"N";"1100";"N";"Y";"Avenida Alfonso El Sabio, 24";"Barrio Mercado";"Distrito Centro";"69";" 59"
+"101213514";"4";"2";"Planta 2ª exterior";"Y";"Y";"N";"Y";"Y";"Y";"N";"N";"950";"Y";"Y";NULL;"Barrio Plà del Bon Repòs-La Goteta";"Distrito Plà del Bon Repòs-La Goteta-San Antón";"140";" 120"
+"101137213";"4";"2";"Planta 3ª exterior";"Y";"N";"N";"Y";"Y";"Y";"N";"N";"1520";"N";"Y";"Calle Paris, 2";"Barrio Ensanche-Diputación";"Distrito Centro";"155";" 135"
+"100041287";"4";"2";"Planta 1ª exterior";"Y";"N";"Y";"Y";"Y";"Y";"N";"N";"1630";"N";"Y";"Calle Alvarez Sereix";"Barrio Centro Tradicional";"Distrito Centro";"140";" 130"
+"100116334";"4";"2";"Planta 1ª exterior";"Y";"Y";"Y";"Y";"Y";"N";"N";"N";"1630";"N";"Y";"Calle Alvarez Sereix";"Barrio Centro Tradicional";"Distrito Centro";"140";NULL
+"100493652";"4";"2";"Planta 1ª exterior";"Y";"Y";"N";"Y";"Y";"Y";"N";"N";"1630";"N";"Y";NULL;"Barrio Centro Tradicional";"Distrito Centro";"140";NULL
+"99997638";"4";"2";"Bajo exterior";"Y";"Y";"N";"Y";"Y";"N";"N";"N";"1630";"N";"Y";NULL;"Barrio Centro Tradicional";"Distrito Centro";"140";" 130"
+"101142907";"3";"2";"Bajo exterior";"Y";"N";"N";"Y";"N";"Y";"N";"N";"750";"N";"Y";"Calle Angelina Bendito";"Barrio Babel";"Distrito Benalúa-La Florida-Babel-San Gabriel";"150";NULL
+"86617224";"1";"1";"Planta 12ª exterior";"Y";"Y";"N";"Y";"Y";"Y";"N";"N";"750";"Y";"Y";"Avenida de Villajoyosa, 10";"Barrio La Albufereta";"Distrito Playa de San Juan-El Cabo";"46";" 38"
+"100114795";"2";"2";"Planta 1ª exterior";"Y";"Y";"Y";"Y";"Y";"Y";"Y";"Y";"1560";"Y";"Y";"Calle Alcalde José Luís Lassaletta";"Barrio Babel";"Distrito Benalúa-La Florida-Babel-San Gabriel";"138";" 125"
+"100570275";"4";"2";"Planta 4ª exterior";"Y";"N";"N";"Y";"N";"N";"N";"N";"1050";"Y";"Y";NULL;"Barrio Colonia Requena-Virgen del Carmen";"Distrito Virgen del Remedio-Juan XXIII";"137";" 135"
+"97707209";"2";"2";"Planta 1ª exterior";"Y";"Y";"N";"Y";"Y";"N";"Y";"N";"1460";"Y";"Y";"Calle Alcalde José Luís Lassaletta, 6";"Barrio Babel";"Distrito Benalúa-La Florida-Babel-San Gabriel";"138";" 118"
+"99491194";"3";"2";"Planta 3ª exterior";"Y";"N";"N";"Y";"Y";"Y";"N";"N";"1152";"N";"Y";NULL;"Barrio Ensanche-Diputación";"Distrito Centro";"117";" 99"

@@ -63,8 +63,8 @@ In orhter to get the clean csv file with the data you must run the program in th
 - SQL/DB_creation.sql
 - SQL/prueba.sql
 - SQL/Updates.sql
-- SQL/individual.sql
 - SQL/create_csv.sql
+- SQL/individual.sql (optional; in case you want in your SQL DB)
 - Python/last.py
 
 

@@ -434,43 +434,43 @@ One with the normal price but without garaje.
 And the other with the extra amount added but with garaje.
 
 */
-INSERT INTO prueba (bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
-SELECT bedrooms, bathrooms, floor, n_price+100, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
+INSERT INTO prueba (idealista_id,bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
+SELECT idealista_id+1,bedrooms, bathrooms, floor, n_price+100, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
 FROM prueba 
 WHERE garaje LIKE '%por 100%';
 
-INSERT INTO prueba (bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
-SELECT bedrooms, bathrooms, floor, n_price+120, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
+INSERT INTO prueba (idealista_id,bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
+SELECT idealista_id+1,bedrooms, bathrooms, floor, n_price+120, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
 FROM prueba 
 WHERE garaje LIKE '%por 120%';
 
-INSERT INTO prueba (bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
-SELECT bedrooms, bathrooms, floor, n_price+130, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
+INSERT INTO prueba (idealista_id,bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
+SELECT idealista_id+1,bedrooms, bathrooms, floor, n_price+130, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
 FROM prueba 
 WHERE garaje LIKE '%por 130%';
 
-INSERT INTO prueba (bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
-SELECT bedrooms, bathrooms, floor, n_price+50, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
+INSERT INTO prueba (idealista_id,bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
+SELECT idealista_id+1,bedrooms, bathrooms, floor, n_price+50, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
 FROM prueba 
 WHERE garaje LIKE '%por 50%';
 
-INSERT INTO prueba (bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
-SELECT bedrooms, bathrooms, floor, n_price+60, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
+INSERT INTO prueba (idealista_id,bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
+SELECT idealista_id+1,bedrooms, bathrooms, floor, n_price+60, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
 FROM prueba 
 WHERE garaje LIKE '%por 60%';
 
-INSERT INTO prueba (bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
-SELECT bedrooms, bathrooms, floor, n_price+70, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
+INSERT INTO prueba (idealista_id,bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
+SELECT idealista_id+1,bedrooms, bathrooms, floor, n_price+70, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
 FROM prueba 
 WHERE garaje LIKE '%por 70%';
 
-INSERT INTO prueba (bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
-SELECT bedrooms, bathrooms, floor, n_price+80, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
+INSERT INTO prueba (idealista_id,bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
+SELECT idealista_id+1,bedrooms, bathrooms, floor, n_price+80, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
 FROM prueba 
 WHERE garaje LIKE '%por 80%';
 
-INSERT INTO prueba (bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
-SELECT bedrooms, bathrooms, floor, n_price+82, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
+INSERT INTO prueba (idealista_id,bedrooms, bathrooms, floor, n_price, elevator, terrace, balcony, garaje, built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful)
+SELECT idealista_id+1,bedrooms, bathrooms, floor, n_price+82, elevator, terrace, balcony, 'Y', built_in_wardrobe,air_conditioning, swimming_pool, green_zone, furnished_, equiped_kitchen, street, neighborhood, district, m2_constructed, m2_useful
 FROM prueba 
 WHERE garaje LIKE '%por 82%';
 

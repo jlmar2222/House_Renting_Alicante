@@ -1,4 +1,4 @@
-#For structure reason we want at most trhee location values: street, neighborhood and district.
+#For structural reason we want at most trhee location values: street, neighborhood and district.
 #Some houses add the 'urbanización', we don't want it. So we will get rid of it through this script.
 
 import csv
