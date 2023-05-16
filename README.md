@@ -75,7 +75,7 @@ In orhter to get the clean csv file with the data you must run the program in th
 
 The Spider.py script is a really slow one and requires some action from your part. 
 This is because idealista.com has some security measures against the web scrapping.
-In orther to bypass them we need to make the 'page surfing' quit slower,
+In orther to bypass them we need to make the 'page surfing' quite slower,
 feel free to adjust the time parameters if you think a faster way is possible without getting to much detected. 
 
 Also in order to idealista not to detect you as a bot we needed to log in with our browser account.
